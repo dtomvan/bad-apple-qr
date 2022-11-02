@@ -1,0 +1,12 @@
+[package]
+name = "bad-apple-qr"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.66"
+bardecoder = "0.3.0"
+image = "0.23"
+qoi = "0.4.1"
